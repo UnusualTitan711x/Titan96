@@ -26,16 +26,15 @@ For detailed KMK setup, refer to the [official KMK documentation](https://github
 | Part | Quantity | Notes |  
 |------|----------|-------|  
 | Orpheus Pico MCU | 1 | Microcontroller by Hack Club |  
-| Low-profile mechanical switches | 100 | e.g., Kailh Choc, Gateron Low-Profile |  
-| Keycaps | 100 | MX or Choc compatible (depending on switches) |  
+| Low-profile mechanical switches | 100 | Gateron Low-Profile |  
+| Keycaps | 100 | MX stems |  
 | PCB | 1 | Custom Titan96 PCB |  
-| Plate | 1 | Aluminum/FR4/Polycarbonate |  
-| Case | 1 | 3D-printed or CNC-machined |  
-| Diodes | 100 | 1N4148 or similar |  
-| Stabilizers | As needed | For larger keys (spacebar, Enter, etc.) |  
-| USB-C Cable | 1 | For power and connectivity |  
-
-*(Adjust quantities and parts based on your design.)*  
+| Plate | 1 | 3D printed |  
+| Case | 1 | 3D printed |  
+| Diodes | 100 | 1N4148 |  
+| Stabilizers |  | For larger keys (spacebar, Enter, etc.) |  
+| OLED Screen 128 x 32 | 1 | Screen |  
+| M2 | 5 | To screw the plate into the case |
  
 
 
