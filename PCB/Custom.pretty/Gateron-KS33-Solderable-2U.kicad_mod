@@ -193,6 +193,28 @@
 		(layer "Cmts.User")
 		(uuid "6ad16729-e3a2-4093-b87d-429c0e6f6198")
 	)
+	(fp_rect
+		(start -8.7116 9.9304)
+		(end -15.2116 -6.0696)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "a6188c00-828a-485f-a341-0269208c5943")
+	)
+	(fp_rect
+		(start 8.7884 9.9304)
+		(end 15.2884 -6.0696)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "c4c84bde-d092-4e91-ba1e-cc0a775457bb")
+	)
 	(pad "" np_thru_hole circle
 		(at 0 0 180)
 		(size 5.1 5.1)
@@ -229,7 +251,7 @@
 	)
 	(model "${AI03_KICAD}/3D/low profile stabilizer..stp"
 		(offset
-			(xyz -60 0 -5.5)
+			(xyz -60 0 -6.2)
 		)
 		(scale
 			(xyz 1 1 1)

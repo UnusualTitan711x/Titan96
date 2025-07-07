@@ -193,6 +193,28 @@
 		(layer "Cmts.User")
 		(uuid "6ad16729-e3a2-4093-b87d-429c0e6f6198")
 	)
+	(fp_rect
+		(start -46.875 10.47)
+		(end -53.375 -5.53)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "c756d98f-5205-4c58-82bf-654b1d429099")
+	)
+	(fp_rect
+		(start 46.625 10.47)
+		(end 53.125 -5.53)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "7dab4342-f996-44ee-9d5d-2ef820bc633d")
+	)
 	(pad "" np_thru_hole circle
 		(at 0 0 180)
 		(size 5.1 5.1)
