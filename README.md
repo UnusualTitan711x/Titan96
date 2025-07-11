@@ -33,19 +33,21 @@ The Titan96 runs on **KMK**, a Python-based keyboard firmware for CircuitPython-
 For detailed KMK setup, refer to the [official KMK documentation](https://github.com/KMKfw/kmk_firmware).  
 
 ## Bill of Materials (BOM)  
-| Part | Quantity | Notes |  
-|------|----------|-------|  
-| Orpheus Pico MCU | 1 | Microcontroller by Hack Club |  
-| Low-profile mechanical switches | 100 | Gateron Low-Profile |  
-| Keycaps | 100 | MX stems |  
-| PCB | 1 | Custom Titan96 PCB |  
-| Plate | 1 | 3D printed |  
-| Case | 1 | 3D printed |  
-| Diodes | 100 | 1N4148 |  
-| Stabilizers |  | For larger keys (spacebar, Enter, etc.) |  
-| OLED Screen 128 x 32 | 1 | Screen |  
-| M2 | 5 | To screw the plate into the case |
+| Part | Quantity | Price | Link | Notes |  
+|------|----------|-------|------|-------|  
+| Orpheus Pico MCU | 1 | N/A | N/A | Microcontroller by Hack Club |  
+| Low-profile mechanical switches | 100 | $40.07 | [Link](https://www.aliexpress.com/item/1005004620638633.html?spm=a2g0o.cart.0.0.422438daRMYwqx&mp=1&pdp_npi=5%40dis%21USD%21USD%2038.00%21USD%2034.20%21%21USD%2034.20%21%21%21%40211b65de17522704719968508eea63%2112000029862619758%21ct%21CM%216291529643%21%211%210) | Gateron Low-Profile |  
+| Keycaps | 100 | $22.14 | [Link](https://www.aliexpress.com/item/1005007074678857.html?spm=a2g0o.cart.0.0.422438daRMYwqx&mp=1&pdp_npi=5%40dis%21USD%21USD%2018.72%21USD%2014.98%21%21USD%2014.98%21%21%21%40211b65de17522704719968508eea63%2112000043563688519%21ct%21CM%216291529643%21%211%210) | MX stems |  
+| PCB | 1 | N/A |  N/A | Custom Titan96 PCB |  
+| Plate | 1 |  N/A | N/A |3D printed |  
+| Case | 1 | N/A | N/A | 3D printed |  
+| Diodes | 100 | $4.7 | [Link](https://www.aliexpress.com/item/1005004333197874.html?spm=a2g0o.cart.0.0.422438daRMYwqx&mp=1&pdp_npi=5%40dis%21USD%21USD%200.33%21USD%200.31%21%21USD%200.31%21%21%21%40211b65de17522704719968508eea63%2112000028793174971%21ct%21CM%216291529643%21%211%210) | 1N4148 |  
+| Stabilizers | 2u x 5, 6.5u x 1 | $15.58 | [Link](https://www.aliexpress.com/item/1005005296240590.html?spm=a2g0o.cart.0.0.422438daRMYwqx&mp=1&pdp_npi=5%40dis%21USD%21USD%2011.59%21USD%2011.59%21%21USD%2011.59%21%21%21%40211b65de17522704719968508eea63%2112000032530884498%21ct%21CM%216291529643%21%211%210) | For larger keys (spacebar, Enter, etc.) |  
+| OLED Screen 128 x 32 | 1 | $5.36 | [Link](https://www.aliexpress.com/item/1005008670382155.html?spm=a2g0o.cart.0.0.422438daRMYwqx&mp=1&pdp_npi=5%40dis%21USD%21USD%201.63%21USD%201.14%21%21USD%201.14%21%21%21%40211b65de17522704719968508eea63%2112000046171658344%21ct%21CM%216291529643%21%211%210) | Screen |  
+| M2 screws | 5 | $4.8 | [Link](https://www.aliexpress.com/item/1005004533251852.html?spm=a2g0o.cart.0.0.286f38dacsLKbg&mp=1&pdp_npi=5%40dis%21USD%21USD%201.55%21USD%201.32%21%21USD%201.32%21%21%21%40211b618e17522580510792994e43dd%2112000029523312277%21ct%21CM%216291529643%21%211%210) | To screw the plate into the case |
+| M2 threaded inserts | 5 | $5.87 | [Link](https://www.aliexpress.com/item/1005003582355741.html?spm=a2g0o.cart.0.0.286f38dacsLKbg&mp=1&pdp_npi=5%40dis%21USD%21USD%201.69%21USD%200.52%21%21USD%200.52%21%21%21%40211b618e17522580510792994e43dd%2112000026370649721%21ct%21CM%216291529643%21%211%210) | To screw the plate into the case |
  
+*NB: All these prices include shipping to Cameroon*
 
 ## License  
 This project is open-source under the **MIT License**.  
